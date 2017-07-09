@@ -7,6 +7,8 @@
 ---close goal---
 -score of user dictionary implementation
 -checking system for contests
+-lvl1 cutoff?
+-analytics?
 -basic contest template
 
 
