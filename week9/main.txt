@@ -1,0 +1,7 @@
+generalize Challenges, Questionare views
+Contest use generalize checkers
+change states asynchronously
+auto save at time end
+popup 2 minutes before finish
+add questions, challenges
+add a clock widget

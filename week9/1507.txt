@@ -1,0 +1,15 @@
+possible error
+-in accounts save ObjectDoesnotExist error
+
+
+
+
+immediate
+-state 1 index template error
+-media tag
+
+
+todo
+-view sorting of challenges
+-remove passing contest.state in contest_view
+-seperate tag app?

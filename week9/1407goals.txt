@@ -1,0 +1,2 @@
+generalize Challenges, Questionare views
+Contest use generalize checkers
